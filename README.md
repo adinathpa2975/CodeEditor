@@ -1,6 +1,6 @@
 # CodeEditor
 **About code editor**
-welcome to code editor<br>
+<br>welcome to code editor<br>
 this source code editor is simply created for front-end developers 
 instead of using notepad or any other code editor you can try this 
 speciality includes;
